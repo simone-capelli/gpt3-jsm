@@ -40,7 +40,7 @@
   font-weight: 500;
   line-height: 30px;
 
-  color: var();
+  color: var(--color-subtext);
 }
 
 .gpt3__possibility-content h1 {
